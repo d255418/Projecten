@@ -1,0 +1,19 @@
+body {
+    background: white;
+}
+
+.messages {
+    padding: 20px;
+}
+
+.bcrikko {
+    top: 70px;
+}
+
+.messageLaura {
+    color: forestgreen;
+}
+
+.errorLaura {
+    color: red;
+}

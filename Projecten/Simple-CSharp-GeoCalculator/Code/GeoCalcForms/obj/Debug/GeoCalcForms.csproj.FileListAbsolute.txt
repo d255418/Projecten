@@ -1,0 +1,10 @@
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\bin\Debug\GeoCalcForms.exe.config
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\bin\Debug\GeoCalcForms.exe
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\bin\Debug\GeoCalcForms.pdb
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.csprojResolveAssemblyReference.cache
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.Form1.resources
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.Properties.Resources.resources
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.csproj.GenerateResource.Cache
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.csproj.CoreCompileInputs.cache
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.exe
+C:\Users\Laura\OneDrive\School Radius\Leerjaar2\P6\VHT\CSharp\Linq\CSharpP6\GeoCalcForms\obj\Debug\GeoCalcForms.pdb
